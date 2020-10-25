@@ -2,7 +2,6 @@
 
 This repository contains an automatically collected dataset for sentiment analysis of product reviews in Russian, which were created within the paper ["Sentiment Analysis of Product Reviews in Russian using Convolutional Neural Networks"](https://ieeexplore.ieee.org/document/8807792). Additionally, we published pre-trained word embeddings.
 
-The paper with a comprehensive description of these models can be found [here](http://www.dialog-21.ru/media/5017/smetaninsi-029.pdf).
 Citation:
 ```
 @INPROCEEDINGS{Smetanin-SA-2019,
